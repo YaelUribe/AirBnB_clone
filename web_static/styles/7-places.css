@@ -1,4 +1,10 @@
-places {
-	font-size: 30px;
-	align-items: left;
+.places {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	flex-wrap: wrap;
+}
+h2{
+	font-size: 32px;
+	position: absolute;
 }
