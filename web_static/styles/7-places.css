@@ -4,7 +4,20 @@
 	text-align: center;
 	flex-wrap: wrap;
 }
-h2{
-	font-size: 32px;
-	position: absolute;
+article h2{
+	font-size: 30px;
+	text-align: center;
+}
+.places h1 {
+	flex: 0 0 100%;
+	text-align: left;
+	font-size: 30px;
+}
+.places article{
+	display: inline-block;
+	padding: 20px;
+	margin: 20px;
+	border: solid 1px #FF5A5F;
+	width: 390px;
+	border-radius: 4px;
 }
